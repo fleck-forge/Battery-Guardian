@@ -1,0 +1,4 @@
+[D-BUS Service]
+Name=org.batteryguardian.Service
+Exec=/usr/bin/systemctl --user start battery-guardian.service
+SystemdService=battery-guardian.service

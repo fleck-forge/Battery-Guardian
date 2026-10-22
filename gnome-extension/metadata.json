@@ -1,0 +1,8 @@
+{
+  "uuid": "battery-guardian@batteryguardian.org",
+  "name": "Battery Guardian",
+  "description": "Read battery status and report hardware-supported charging controls.",
+  "shell-version": ["42"],
+  "version": 1,
+  "url": "https://github.com/battery-guardian/battery-guardian"
+}
